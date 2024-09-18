@@ -9,7 +9,7 @@ Instead, we borrow a trick from sonar known as frequency differencing, which was
 
 We provide sample data and algorithms presented in
 
-> Rehman Ali; Trevor Mitcham; Sarah McConnell; Redi Rahmani; G. Edward Vates; Nebojsa Duric, "A Frequency-Differencing Strategy to Kickstart Full-Waveform Inversion Without Cycle Skipping", JASA Express Letters, _In Review_
+> Ali, R., Mitcham, T., McConnell, S., & Duric, N. (2024, _In Review_). Frequency-Differencing Strategy to Kickstart Full-Waveform Inversion Without Cycle Skipping. JASA Express Letters.
 
 If you use the code/algorithm for research, please cite the above paper and the prior work it was built on ([rehmanali1994/WaveformInversionUST](https://github.com/rehmanali1994/WaveformInversionUST)). 
 
