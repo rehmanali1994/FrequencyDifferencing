@@ -14,7 +14,7 @@ We provide sample data and algorithms presented in
 If you use the code/algorithm for research, please cite the above paper and the prior work it was built on ([rehmanali1994/WaveformInversionUST](https://github.com/rehmanali1994/WaveformInversionUST)). 
 
 You can reference a static version of this code by its DOI number:
-INSERT DOI BADGE HERE
+[![DOI](https://zenodo.org/badge/859300408.svg)](https://zenodo.org/doi/10.5281/zenodo.13785187)
 
 # Experimental Datasets
 
