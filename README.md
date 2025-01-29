@@ -10,7 +10,7 @@ Instead, we borrow a trick from sonar known as frequency differencing, which was
 We provide sample data and algorithms presented in
 
 ```BibTeX
-@article{ali2025frequency,
+@article{ali2025frequencydifferencing,
   title={Frequency-differencing strategy to kickstart full-waveform inversion without cycle skipping},
   author={Ali, Rehman and Mitcham, Trevor and Owolabi, Israel and McConnell, Sarah and Duric, Nebojsa},
   journal={JASA Express Letters},
