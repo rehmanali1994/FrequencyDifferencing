@@ -7,7 +7,7 @@ The main challenge that this work aims to address is the problem of false-local 
 
 Instead, we borrow a trick from sonar known as frequency differencing, which was originally developed in a beamforming context (frequency-difference beamforming).  We use frequency differencing to synthesize the desired low-frequency signals from the available high-frequency data.  The low-frequency data synthesized via frequency differencing is then used to kickstart FWI.
 
-We provide sample data and algorithms presented in the [JASA Express Letters paper](https://pubs.aip.org/asa/jel/article/5/1/012001/3329192/Frequency-differencing-strategy-to-kickstart-full) cited below
+We provide sample data and algorithms presented in the [JASA Express Letters paper](https://pubs.aip.org/asa/jel/article/5/1/012001/3329192/Frequency-differencing-strategy-to-kickstart-full) with BibTeX reference below
 
 ```BibTeX
 @article{ali2025frequencydifferencing,
